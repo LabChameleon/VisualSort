@@ -1,0 +1,4 @@
+Visualization of the sort algorithms insertation sort, bubble sort, quick sort and selection sort.
+The tool sorts blocks by their height step by and step and records the required comparisons and
+permutations. The tool is included in the high-school computer science book 'Module der Informatik' 
+by Albowski, Ainödhofer, Pollmann und Terveer.
